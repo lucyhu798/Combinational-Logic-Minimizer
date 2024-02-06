@@ -1,0 +1,6 @@
+initial products: 8
+initial literals: 15
+v3 = !v2 + !v0!v1v2
+optimized products: 2
+optimized literals: 4
+Time taken is: 0 sec

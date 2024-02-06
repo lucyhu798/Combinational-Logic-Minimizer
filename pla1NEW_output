@@ -1,0 +1,12 @@
+initial products: 31
+initial literals: 90
+v4.0 = !v1!v2 + !v0v1!v2 + !v0v1!v3 + !v0!v2!v3
+v4.1 = !v0v3 + !v0v2!v3 + !v1!v2!v3
+v4.2 = !v0v1 + !v0!v1v2 + v0!v1!v2 + !v1!v2!v3
+v4.3 = !v0!v1v2 + !v0v1!v2 + v0!v1!v2 + !v0v2!v3
+v4.4 = !v0!v1v2 + !v0v2!v3 + !v1!v2!v3 + !v0v1!v2v3
+v4.5 = !v0!v1 + !v1!v2 + !v0v1v2v3 + !v0v1!v2!v3
+v4.6 = !v0 + v0!v1!v2 + !v1!v2!v3
+optimized products: 26
+optimized literals: 74
+Time taken is: 0 sec

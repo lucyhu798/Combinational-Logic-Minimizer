@@ -1,0 +1,15 @@
+initial products: 576
+initial literals: 4032
+v7.0 = v0v1v4v5v6 + v0v1v3!v4 + v0v1v2!v3!v4 + v0v1v3v4!v5 + v0v1v2!v3v4!v5 + v0v1v3v4v5!v6 + v0v1v2!v3v4v5!v6
+v7.1 = !v0v1v2v5v6 + v0!v1 + v0v1!v2!v3!v4 + !v0v1v2v4!v5 + v0v1!v2!v3v4!v5 + !v0v1v2v3!v4!v5 + !v0v1v2v4v5!v6 + v0v1!v2!v3v4v5!v6 + !v0v1v2v3!v4v5!v6
+v7.2 = !v1v2v3v5 + !v0v1!v2 + v0!v1!v2v3v4v6 + v0!v1v2!v3 + v0v1!v2!v3!v4 + !v1v2v3v4!v5 + v0v1!v2!v3v4!v5 + v0!v1v2v3!v4!v5 + !v0v1v2!v3!v4!v5 + v0!v1!v2v3v4v5!v6 + v0v1!v2!v3v4v5!v6 + !v0v1v2!v3!v4v5!v6
+v7.3 = v0v2v3v5 + !v0!v2v3v4v6 + v0v1v2!v3v5v6 + !v0!v1v2!v3 + !v0v1!v2!v3v4v5v6 + v0!v1!v2!v3 + !v0v1!v2v3!v4 + v0!v1!v2v3!v4 + v0v1!v2!v3!v4 + v0v2v3v4!v5 + v0v1!v3v4!v5 + v0v1v2v3!v4!v5 + !v0!v1v2v3!v4!v5 + !v0v1v2!v3!v4!v5 + !v0!v2v3v4v5!v6 + v0v1!v3v4v5!v6 + !v0v1v2!v3!v4v5!v6 + !v0v1!v2v3v4!v5!v6 + v0!v1!v2v3v4!v5!v6
+v7.4 = v1v3v4v6 + !v1!v3v4v5v6 + v1v2v3!v4v5 + !v1!v2v3!v4 + !v1v2!v3!v4v5v6 + v1!v2!v3!v4 + !v1v2!v3v4!v5 + v1!v2!v3v4!v5 + !v1v2v3!v4!v5 + v1v2!v3!v4!v5 + v1v3v4v5!v6 + !v1v2!v3v4v5!v6 + v1!v2!v3v4v5!v6 + v1v2!v3!v4v5!v6 + v1v2v3v4!v5!v6 + !v1!v2v3v4!v5!v6
+v7.5 = v2v4v5v6 + !v2!v4v5v6 + v2v3!v5v6 + !v2!v3v4!v5 + v2!v3!v4!v5 + v2v3v4v5!v6 + !v2!v3v4v5!v6 + !v2v3!v4v5!v6 + v2!v3!v4v5!v6 + !v2v3v4!v5!v6 + v2v3!v4!v5!v6
+v7.6 = v3v5v6 + !v3v4!v5v6 + v3!v4!v5 + !v3v5!v6 + v3v4!v5!v6
+v7.7 = v4v5 + !v4!v5v6 + v4!v5!v6
+v7.8 = !v5v6 + v5!v6
+v7.9 = !v6
+optimized products: 85
+optimized literals: 422
+Time taken is: 1 sec
